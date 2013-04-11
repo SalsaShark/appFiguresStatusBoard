@@ -12,8 +12,8 @@ $productid = 000000; //appFigures product ID. Can be found at https://api.appfig
 $appName = NULL; //App name for chart names (optional)
 
 /* File locations for iAd revenue and app sales. Make sure they're writable and accessible. */
-$iadFile = ""; // Sales file
-$salesFile = ""; // iAd revenue file
+$iadFile = ""; // iAd revenue file
+$salesFile = ""; // Sales file
 
 /*
    If $revenueColors is TRUE, revenue graph will have bars colored according to value.
